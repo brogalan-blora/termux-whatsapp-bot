@@ -15,21 +15,21 @@ const speed = require('performance-now');
 const apivhtear = 'apikey';
 const apibarbar = 'apikey';
 const tobzkey = 'apikey';
-const BotName = 'Lexa';
+const BotName = 'Brogalan';
 const wa = 'https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst';
 const eror = 'Info fitur Error';
-const ow = 'Mrf.zvx';
-const nomorowner = '082223014661';
-const ovo = '082223014661';
-const pulsa = '082223014661';
-const dana = '082223014661';
-const instagram = 'http://www.instagram.com/mrf.zvx';
-const aktif = '08:00 - 22:00';
+const ow = 'Ali Rohmatulloh';
+const nomorowner = '082132789470';
+const ovo = '082132789470';
+const pulsa = '082132789470';
+const dana = '082132789470';
+const instagram = 'http://www.instagram.com/brogalan.blora';
+const aktif = '00:00 - 11:59';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
-  + 'FN:Mrf.zvx\n' // Nama kamu
-  + 'ORG:Lexa;\n' // Nama bot
-  + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //Nomor whatsapp kamu
+  + 'FN:Ali rohmat\n' // Nama kamu
+  + 'ORG:Brogalan;\n' // Nama bot
+  + 'TEL;type=CELL;type=VOICE;waid=6282132789470:+62-821-3278-9470 \n' //Nomor whatsapp kamu
   + 'END:VCARD'
 //
 const
